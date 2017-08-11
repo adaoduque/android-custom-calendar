@@ -8,4 +8,4 @@ Ele ainda não avança usando o scroll do recyclerview, num outro commit eu impl
 
 O calendário não exibe data menor que a atual.
 
-![Screenshot](https://s28.postimg.org/ozc0408v1/Screenshot_20170811-001737.png)
+![Screenshot](https://s27.postimg.org/lcdqvsu77/Screenshot_20170811-001737.png)
