@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calendar</string>
+
+    <string name="icon_angle_right">&#xf105;</string>
+    <string name="icon_angle_left">&#xf104;</string>
+    <string name="icon_calendar">&#xf073;</string>
+    <string name="icon_angle_down">&#xf107;</string>
+</resources>
